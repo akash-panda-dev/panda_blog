@@ -1,4 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast"
 title: "Akash Panda's Blog"
 plugins:
   - jekyll-paginate
@@ -50,7 +51,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
