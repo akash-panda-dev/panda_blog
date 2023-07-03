@@ -1,5 +1,5 @@
 ---
-title: "Why-am-I-writing?"
+title: "Why am I writing?"
 date: 2023-07-02
 ---
 
